@@ -26,7 +26,7 @@ cd是用来切换当前命令行的盘符，看廖雪峰的教程时，折腾半
 
 	name = input('please enter your name: ')
 	print('hello,', name)
-运行之后，会先打印出`please enter your name:`,键入名字,就得到`hello, xxx`
+运行之后，会先打印出`please enter your name:`，键入名字，就得到`hello, xxx`
 
 	C:\work>python hello.py
 	please enter your name: Michael
