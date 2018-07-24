@@ -7,3 +7,6 @@ ___
 
 	cd C:\Users\name\Downloads
 cd是用来切换当前命令行的盘符，看廖雪峰的教程时，折腾半天，才知道怎么去打开learning.py
+
+	C:\Users\name\Doenloads>python learning.py
+然后就可以在命令行模式下，输入 python打开learning.py这个文件辣
